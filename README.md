@@ -13,9 +13,9 @@
 
 ### Pset1 - Introduction to C (C)
 > First code using C.
-- [Hello, world!](pset1/hello/hello.c)
-- [Mario](pset1/mario/mario.c)
-- [Cash](pset1/cash/cash.c)
+- [Hello, world!](Pset01/hello.c)
+- [Mario](Pset01/mario.c)
+- [Cash](Pset01/cash.c)
 
 
 
