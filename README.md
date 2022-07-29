@@ -15,7 +15,7 @@
 > First code using C.
 - [Hello, world!](Pset01/Hello)
 - [Mario](Pset01/mario)
-- [Cash](Pset01/cash.c)
+- [Credit](Pset01/credit)
 
 
 
