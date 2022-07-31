@@ -11,12 +11,13 @@
 
 ## Problem Sets
 
-### Pset1 - Introduction to C (C)
+### Pset1 - Week 1: Introduction to C (C)
 > First code using C.
 - [Hello, world!](Pset01/Hello)
 - [Mario](Pset01/mario)
 - [Credit](Pset01/credit)
 
-
+### Pset2 - Week 2: Arrays
+- [Lab 2: Scrabble](Pset2/Lab2)
 
 > Please keep in mind [Academic Honesty](https://cs50.harvard.edu/x/2020/syllabus/#academic-honesty).There are many great communities for support and help, such as [CS50 Stack Exchange](https://cs50.stackexchange.com/), the [CS50 Subreddit](https://www.reddit.com/r/cs50/) and the [CS50 Slack](http://cs50.edx.org/slack) :)
