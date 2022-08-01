@@ -24,7 +24,8 @@
 
 ### Pset2 - Week 2: Arrays
 - [Lab 2: Scrabble](Pset2/Lab2)
-- [readability](Pset2/readability.c)
-- [caesar](Pset2/caesar.c)
+- [Readability](Pset2/readability.c)
+- [Caesar](Pset2/caesar.c)
+- [Substitution](Pset2/substitution.c)
 
 > Please keep in mind [Academic Honesty](https://cs50.harvard.edu/x/2020/syllabus/#academic-honesty).There are many great communities for support and help, such as [CS50 Stack Exchange](https://cs50.stackexchange.com/), the [CS50 Subreddit](https://www.reddit.com/r/cs50/) and the [CS50 Slack](http://cs50.edx.org/slack) :)
