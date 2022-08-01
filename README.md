@@ -12,7 +12,7 @@
 > argv/argc implementation 
     - [argv/argc](Lectures)
 #
-> Implement a fucntion that converts string to integer
+> Implement a function that converts string to integer
     - [atoi function](Lectures)
 ## Problem Sets
 
