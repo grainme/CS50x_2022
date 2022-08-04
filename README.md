@@ -30,5 +30,6 @@
 
 ### Pset3 - Week 3: Algorithms
 - [Plurality](Pset03/plurality.c)
+- [Runoff](Pset03/runoff.c)
 
 > Please keep in mind [Academic Honesty](https://cs50.harvard.edu/x/2020/syllabus/#academic-honesty).There are many great communities for support and help, such as [CS50 Stack Exchange](https://cs50.stackexchange.com/), the [CS50 Subreddit](https://www.reddit.com/r/cs50/) and the [CS50 Slack](http://cs50.edx.org/slack) :)
