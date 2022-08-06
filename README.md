@@ -16,7 +16,7 @@
     - [atoi function](Lectures/atoi.c)
 #
 > Swap two variable function
-    - [Swap fucntion](Lectures/swap.c)
+    - [swap fucntion](Lectures/swap.c)
 ## Problem Sets
 
 ### Pset1 - Week 1: Introduction to C (C)
