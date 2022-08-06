@@ -22,3 +22,40 @@ void swap(int *a , int *b)
     *a = *b;
     *b = temp;
 }
+
+// SWAP STRINGS
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void swap(char *a , char *b);
+
+int main(void)
+{
+
+    char *nickname = malloc(12 * sizeof(char));
+    char *name = malloc(12 * sizeof(char));
+    printf("name = ");
+    scanf("%s",name);
+    printf("\n");
+    printf("nickname = ");
+    scanf("%s",nickname);
+    printf("name = %s nickname = %s\n",name,nickname);
+    swap(name,nickname);
+    printf("name= %s nickname = %s\n",name,nickname);
+    free(nickname);
+    free(name);
+    return 0;
+}
+
+void swap(char *a , char *b)
+{
+    for (int i = 0 ; i < (12 * sizeof(char)) ; i++)
+    {
+        char temp = *(a+i);
+        *(a+i) = *(b+i);
+        *(b+i) = temp;
+
+    }
+    
+}
