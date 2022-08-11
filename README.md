@@ -17,6 +17,10 @@
 #
 > Swap two variable function
     - [swap fucntion](Lectures/swap.c)
+#
+> Get Size of an Array
+    - [array size](Lectures/array_size.c)
+    
 ## Problem Sets
 
 ### Pset1 - Week 1: Introduction to C (C)
