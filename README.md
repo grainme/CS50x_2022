@@ -20,6 +20,9 @@
 #
 > Get Size of an Array
     - [array size](Lectures/array_size.c)
+#
+> Data Structure
+    - [Linked List](Lectures/Data_Structure/Linked_List.c)
     
 ## Problem Sets
 
