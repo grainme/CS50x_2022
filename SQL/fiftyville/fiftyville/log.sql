@@ -1,4 +1,4 @@
--- Keep a log of any SQL queries you execute as you solve the mystery.
+*-- Keep a log of any SQL queries you execute as you solve the mystery.
 
 -- -- Descriptions of the crime happened at the given location and time.
 SELECT description FROM crime_scene_reports 
