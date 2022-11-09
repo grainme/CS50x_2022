@@ -1,4 +1,3 @@
-#include <cs50.h>
 #include <stdio.h>
 
 int get_cents(void);
@@ -40,7 +39,8 @@ int get_cents(void)
     int cents_amount;
     do
     {
-        cents_amount = get_int("Change owed: ");
+        printf("Change owed: ");
+        scanf("%i",&cents_amount);
     }
     while (cents_amount < 0);
 
