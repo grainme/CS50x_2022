@@ -1,0 +1,43 @@
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url(./images/mitchell-luo-Lx4kly_eMOA-unsplash.jpg);
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    background-color:brown ;
+    color: azure;
+}
+
+.spanning
+{
+    color: blue;
+    font-weight: bold;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.centered
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+}
