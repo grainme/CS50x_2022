@@ -1,7 +1,4 @@
-
-![ezgif-3-ad26e96d1f](https://user-images.githubusercontent.com/104838272/181598702-f1ec9cca-c1e1-4259-97f0-fc42dcdd2c0d.png)
-    <h1>Harvards CS50: Introduction to Computer Science</h1>
-</div>
+## Harvards CS50: Introduction to Computer Science
 
 
 
